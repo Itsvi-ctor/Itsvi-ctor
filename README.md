@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Redux, Tailwind css**
 
-- 👯 I’m looking to collaborate on [A menu page](https://simple-menu-app.netlify.app/)
+- 👯 I’m looking to collaborate on projects, just send message me
 
 - 👨‍💻 All of my projects are available at [https://vicolaniyan.netlify.app/](https://vicolaniyan.netlify.app/)
 

@@ -1,6 +1,6 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)](https://vicolaniyan.netlify.app/)
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">I am an experienced and highly motivated frontend software engineer with a strong passion for learning and building websites with great user experience</h3>
+<h3 align="center">I am an highly motivated SOC analyst with a strong passion for learning and building websites with great user experience</h3>
 <img align="right" alt="greeting" width="400" src="https://miro.medium.com/max/700/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 
